@@ -2,3 +2,8 @@ This is Chat application
 
 Type option
 colors
+
+
+Payment Option
+send money
+receive money
